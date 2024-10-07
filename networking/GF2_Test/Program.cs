@@ -3,7 +3,7 @@ using System.Net;
   
 class Program{ 
       
-static void Main(string[] args)   
+static void Main()   
 { 
       
     // Get the Name of the host   
